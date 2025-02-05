@@ -1,6 +1,8 @@
 # scryingstone-seamstress
 scrying stone for seamstress
 
+![IMG_2540](https://github.com/user-attachments/assets/2e57cf75-e5e7-4cee-be77-921bc32f0ba9)
+
 _So shall my word be that goeth forth out of my mouth: it shall not return unto me void, but it shall accomplish that which I please, and it shall prosper in the thing whereto I sent it._ <br>
 Isaiah 55:11
 
